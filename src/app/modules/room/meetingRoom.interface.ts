@@ -1,5 +1,3 @@
-
-
 export type TMeetingRoom = {
     name: string;
     roomNo: number;
@@ -9,4 +7,3 @@ export type TMeetingRoom = {
     amenities: string[];
     isDeleted: boolean;
 };
-
